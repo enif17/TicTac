@@ -1,1 +1,4 @@
 include ':app'
+include ':Task6'
+
+project (":Task6").projectDir = new File ("/Users/Zurita/Documents/UPV/PDM/Projects/Task6")
